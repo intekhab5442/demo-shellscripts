@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+<<help
+this will help in creating user
+
+
+help
+echo "======creating of ne usere ======="
